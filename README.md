@@ -16,3 +16,6 @@ Compared 2 techniques for the Facial Expression Recognition Task:-
 
 ## User Interface
 ![](GUI.PNG)
+
+## Publication
+https://journals.eduindex.org/index.php/think-india/article/view/9080
